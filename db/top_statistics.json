@@ -1,61 +1,45 @@
 {
   "leaderboard": [
     {
-      "wins": 3,
-      "losses": 0,
-      "scoredGoals": 10,
-      "concededGoals": 4,
-      "yellowCards": 3,
-      "redCards": 1,
+      "wins": 8,
+      "losses": 3,
+      "scoredGoals": 34,
+      "concededGoals": 27,
+      "yellowCards": 7,
+      "redCards": 0,
       "rank": 1,
       "team": {
-        "id": "saiyans-fc",
-        "name": "Saiyans FC",
-        "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
-        "coach": "Daniel Romo",
-        "shortName": "SAI"
+        "id": "ultimate-mostoles",
+        "name": "Ultimate Móstoles",
+        "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
+        "coach": "Nacho Castro",
+        "shortName": "ULT"
       }
     },
     {
-      "wins": 3,
-      "losses": 0,
-      "scoredGoals": 12,
-      "concededGoals": 7,
-      "yellowCards": 0,
+      "wins": 7,
+      "losses": 4,
+      "scoredGoals": 37,
+      "concededGoals": 26,
+      "yellowCards": 11,
       "redCards": 0,
       "rank": 2,
       "team": {
-        "id": "1k",
-        "name": "1K FC",
-        "image": "https://kingsleague.dev/teams/logos/1k.svg",
-        "coach": "Julio García Mera",
-        "shortName": "1K"
+        "id": "porcinos-fc",
+        "name": "Porcinos FC",
+        "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
+        "coach": "Juvenal Edjogo",
+        "shortName": "POR"
       }
     },
     {
-      "wins": 2,
-      "losses": 1,
-      "scoredGoals": 5,
-      "concededGoals": 3,
-      "yellowCards": 2,
+      "wins": 7,
+      "losses": 4,
+      "scoredGoals": 40,
+      "concededGoals": 34,
+      "yellowCards": 6,
       "redCards": 0,
       "rank": 3,
-      "team": {
-        "id": "kunisports",
-        "name": "Kunisports",
-        "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
-        "coach": "Martín Posse",
-        "shortName": "KNS"
-      }
-    },
-    {
-      "wins": 2,
-      "losses": 1,
-      "scoredGoals": 11,
-      "concededGoals": 10,
-      "yellowCards": 2,
-      "redCards": 0,
-      "rank": 4,
       "team": {
         "id": "los-troncos-fc",
         "name": "Los Troncos FC",
@@ -65,19 +49,35 @@
       }
     },
     {
-      "wins": 2,
-      "losses": 1,
-      "scoredGoals": 9,
-      "concededGoals": 8,
+      "wins": 7,
+      "losses": 4,
+      "scoredGoals": 21,
+      "concededGoals": 18,
+      "yellowCards": 3,
+      "redCards": 0,
+      "rank": 4,
+      "team": {
+        "id": "saiyans-fc",
+        "name": "Saiyans FC",
+        "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
+        "coach": "Daniel Romo",
+        "shortName": "SAI"
+      }
+    },
+    {
+      "wins": 7,
+      "losses": 4,
+      "scoredGoals": 23,
+      "concededGoals": 22,
       "yellowCards": 1,
       "redCards": 0,
       "rank": 5,
       "team": {
-        "id": "ultimate-mostoles",
-        "name": "Ultimate Móstoles",
-        "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
-        "coach": "Nacho Castro",
-        "shortName": "ULT"
+        "id": "kunisports",
+        "name": "Kunisports",
+        "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
+        "coach": "Martín Posse",
+        "shortName": "KNS"
       }
     }
   ],
